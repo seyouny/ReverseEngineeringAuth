@@ -16,10 +16,13 @@ var config    = require(__dirname + '/../config/config.json')[env];
 var db        = {};
 
 if (config.use_env_variable) {
+  // if the environment is set, then it will use process.env[config.use_env_variable] which grabs the current environment variable
   var sequelize = new Sequelize(process.env[config.use_env_variable]);
 } else {
   var sequelize = new Sequelize(config.database, config.username, config.password, config);
+  // else it'll create and establish a manually created one.
 }
+
 
 fs
   .readdirSync(__dirname)
