@@ -41,6 +41,28 @@ This is the initial starting point for Node and Express. This file sets up the E
 
 When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
 
+### Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+### Deployed Link
+
+https://github.com/seyouny/ReverseEngineeringAuth
+
+### Authors
+
+Seyoung Yoon
+
+- [Link to Github](https://github.com/seyouny)
+- [Link to LinkedIn](https://www.linkedin.com/in/stacey-yoon-bbaa7413a/)
+
+
+
+### License
+This project is licensed under the MIT License
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
