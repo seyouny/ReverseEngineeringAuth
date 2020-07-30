@@ -4,7 +4,7 @@
 
 1. WHEN user signs up for new account
 2. THEN IF user successfully enters in a username and password
-3. ELSE user will be redirected to the /members page.
+3. THEN user will be redirected to the /members page.
 4. ELSE IF user incorrectly fills out information
 5. THEN user will remain on the page to try again.
 6. IF A user exists
